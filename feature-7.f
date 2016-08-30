@@ -7,3 +7,5 @@ def Blah
 
 	def reset()
 		message = "Hello from the other side"
+	def destroy()
+		message = nill
